@@ -11,3 +11,4 @@ Applied Data Science, KazNU, Spring 2025 зертханалық жұмыстар
 - Әр аптада: Jupyter ноутбук және оған тиесілі dataset қалтасы бар
 
 
+ссылка датасет https://huggingface.co/datasets/Kanatbek05/kaz_traffic_data_week12/tree/main
